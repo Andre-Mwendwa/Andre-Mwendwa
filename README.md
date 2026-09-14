@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to **Andre-Mwendwa @GitHub**! 🚀 I am a skilled **Data Scientist**, **DeFi Researcher** and **Web3 Full-Stack Developer** with expertise in building AI-powered applications, decentralized solutions, and scalable web services. Passionate about blockchain, DeFi, and data-driven decision-making.
+Welcome to **Andre-Mwendwa @GitHub**! 🚀 I am a skilled **Data Scientist**, **DeFi Researcher**, **Web3 Full-Stack Developer**, and **Systems-Minded Engineer** with expertise in building AI-powered applications, decentralized solutions, cloud-native architectures, and scalable web services. Passionate about blockchain, DeFi, system design, and data-driven decision-making.
 
 ![Tagline Cover photo](https://github.com/Dre-AsiliVentures/Dre-AsiliVentures/blob/main/Full%20Stack%20Developer%20Yellow%20Hardhat%20Solidity%20Django%20Next.png)
 
@@ -19,15 +19,43 @@ Welcome to **Andre-Mwendwa @GitHub**! 🚀 I am a skilled **Data Scientist**, **
 - **AI Trading & Predictive Analytics**
 - **Crypto Agents: Fundamental, Sentiment Analysis** (Jupyter Notebook, Threading, OpenAI, Claude, Grok, Ollama)
 - **Blockchain Data Analytics** (DeFiLlama, Arkham, L2Beat, Binance API, Jupyter Notebook, Pandas, Ollama, Claude, Seaborn, Matplotlib)
+- **Data Engineering** (pipelines, Medallion architecture — Bronze/Silver/Gold data layers)
+
+### 🏗️ System Architecture & Backend Engineering
+- **API Design** (architecture core principles, communication protocols, data management & interaction, security & access control, versioning & lifecycle management, error handling & resiliency, testing & monitoring, FastAPI design guides)
+- **Database Design**
+- **Cloud Computing**
+- **Containerization**
+- **DevOps** (CI/CD, infrastructure automation)
+- **Messaging & Event Handling** (event-driven systems, async messaging)
+- **SRE Engineering** (reliability, observability, incident response)
+- **System Architecture** (large-scale distributed systems design)
+
+### 🧪 Software Testing & QA
+- **Load Testing**
+- **Python Testing** (`pyTest`)
+- **JavaScript/TypeScript Testing** (`Vitest`, `testing-library`)
+
+### 💻 Programming & Computer Science Foundations
+- **Data Structures & Algorithms (DSA)**
+- **Regex / Pattern Matching**
+- **State Management** (Redux, Zustand)
+- **Mobile Development** (Android & iOS)
+
+### 🎨 UX/UI Design
+- Interface design and user experience workflows to complement full-stack builds
 
 ---
 
 ## 🏗️ Tech Stack
 
 ### 🔥 Programming Languages
-- ![Python](https://skillicons.dev/icons?i=python) **Python** (AI, ML, Web3, Backend)
+- ![Python](https://skillicons.dev/icons?i=python) **Python** (AI, ML, Web3, Backend, Data Engineering)
 - ![JavaScript](https://skillicons.dev/icons?i=javascript) **JavaScript/TypeScript** (Frontend & Backend Development)
 - ![Solidity](https://skillicons.dev/icons?i=solidity) **Solidity** (Smart Contracts Development)
+- ![Go](https://skillicons.dev/icons?i=go) **Go**
+- ![HTML](https://skillicons.dev/icons?i=html) **HTML**
+- **HCL** (Infrastructure-as-Code / Terraform)
 
 ### 🐍 Python Modules & Frameworks
 #### **Data Science & AI**
@@ -40,7 +68,10 @@ Welcome to **Andre-Mwendwa @GitHub**! 🚀 I am a skilled **Data Scientist**, **
 - `web3.py`, `brownie`, `truffle`, `hardhat`
 
 #### **Automation & Scripting**
--  `requests`, `beautifulsoup4`, `asyncio`
+- `requests`, `beautifulsoup4`, `asyncio`
+
+#### **Testing**
+- `pyTest`
 
 ---
 
@@ -50,6 +81,7 @@ Welcome to **Andre-Mwendwa @GitHub**! 🚀 I am a skilled **Data Scientist**, **
 - ![Next.js](https://skillicons.dev/icons?i=nextjs) `Next.js`
 - ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) `Tailwind CSS`
 - `Material-UI`, `shadcn/ui`, `chakra-ui`
+- **State Management**: `Redux`, `Zustand`
 
 #### **Backend & APIs**
 - ![Node.js](https://skillicons.dev/icons?i=nodejs) `Node.js`
@@ -58,9 +90,16 @@ Welcome to **Andre-Mwendwa @GitHub**! 🚀 I am a skilled **Data Scientist**, **
 - ![MongoDB](https://skillicons.dev/icons?i=mongodb) `MongoDB`
 - ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) `PostgreSQL`
 
+#### **Testing**
+- `Vitest`, `testing-library`
+
+#### **Mobile**
+- Android & iOS development
+
+---
 
 ### **Web3 & Blockchain Tools & Frameworks**
-- <img src="https://developers.moralis.com/wp-content/uploads/2022/12/Blog-Ethers.js-Events-Ethers-1536x1062.png" alt="IPFS" width="20"/> Ethers.js
+- <img src="https://developers.moralis.com/wp-content/uploads/2022/12/Blog-Ethers.js-Events-Ethers-1536x1062.png" alt="Ethers.js" width="20"/> Ethers.js
 - <img src="https://wagmi.sh/logo-light.svg" alt="wagmi" width="30"/> Wagmi
 - <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhe-head.aed81bd1.svg&w=384&q=75" alt="hardhat" width="20"/> Hardhat
 - <img src="https://www.rainbowkit.com/rainbow.svg" alt="RainbowKit" width="20"/> Rainbowkit
@@ -82,7 +121,7 @@ Welcome to **Andre-Mwendwa @GitHub**! 🚀 I am a skilled **Data Scientist**, **
 
 - **Web3 Contract Upgrades & Security**:
   - <img src="https://cudedesign.co.uk/wp-content/uploads/2022/06/OpenZeppelin-Programming-Language.png" alt="OpenZeppelin" width="40" height="50"> `OpenZeppelin`
-  - <img src="https://imagedelivery.net/qdx9xDn6TxxInQGWsuRsVg/5646cd55-8803-4fec-bc22-95c20ad0dd00/public" alt="OpenZeppelin" width="40" height="40"> `ChainSafe`
+  - <img src="https://imagedelivery.net/qdx9xDn6TxxInQGWsuRsVg/5646cd55-8803-4fec-bc22-95c20ad0dd00/public" alt="ChainSafe" width="40" height="40"> `ChainSafe`
 
 - **DeFi & Token Standards**:
   - <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*SdJyfsddLG0Op7l4MLZk8Q.png" alt="ERC20" width="20" height="20"> `ERC20`
@@ -93,6 +132,17 @@ Welcome to **Andre-Mwendwa @GitHub**! 🚀 I am a skilled **Data Scientist**, **
   - <img src="https://kyberswap.com/logo-dark.svg" alt="KyberSwap" width="20" height="20"> `KyberSwap`
   - <img src="https://docs.pancakeswap.finance/~gitbook/image?url=https%3A%2F%2F2908774936-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MHREX7DHcljbY5IkjgJ-1972196547%252Fuploads%252FjiEPzgrAvaNX5kRYrir8%252Fpancakeswap-exchange-header.png%3Falt%3Dmedia%26token%3D7c837ce5-2538-4564-ae38-5688d38c4c21&width=400&dpr=3&quality=100&sign=f853003a&sv=2" alt="Pancake Swap" width="20" height="20"> `Pancake Swap`
   - <img src="https://images.ctfassets.net/oc3ca6rftwdu/VIyg7UdV1ypiUhkAvKScL/3600bdaa181bd8da01277a5e92ebc3a4/image__6_.png?w=1200&h=900&q=100&fit=crop" alt="Uniswap V3" width="20" height="20"> `Uniswap V3`
+
+---
+
+### ☁️ System Design, Cloud & DevOps
+- **Cloud Computing**
+- **Containerization** (Docker-style container workflows)
+- **Infrastructure as Code** (HCL / Terraform)
+- **DevOps** pipelines & automation
+- **Messaging & Event Handling** (event-driven architectures)
+- **SRE Engineering** (reliability, monitoring, incident response)
+- **API Design** covering architecture principles, communication protocols, data management, security & access control, versioning, error handling & resiliency, and testing & monitoring
 
 ---
 
@@ -109,5 +159,4 @@ Some notable projects I have worked on:
 - **GitHub**: [Andre-Mwendwa](https://github.com/Andre-Mwendwa)
 - **LinkedIn**: [Andrew Mwendwa](https://www.linkedin.com/in/andrew-mwendwa-7401711a1/)
 
-Feel free to connect for collaborations, contributions, or just to discuss exciting Web3 and AI ideas! 🚀
-
+Feel free to connect for collaborations, contributions, or just to discuss exciting Web3, AI, and systems engineering ideas! 🚀
