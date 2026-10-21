@@ -135,7 +135,7 @@ Welcome to **Andre-Mwendwa @GitHub**! 🚀 I am a skilled **Data Scientist**, **
 
 ---
 
-### ☁️ System Design, Cloud & DevOps
+### ☁️ System Design, Cloud & Dev Ops
 - **Cloud Computing**
 - **Containerization** (Docker-style container workflows)
 - **Infrastructure as Code** (HCL / Terraform)
@@ -157,6 +157,5 @@ Some notable projects I have worked on:
 
 ## 📩 Connect With Me
 - **GitHub**: [Andre-Mwendwa](https://github.com/Andre-Mwendwa)
-- **LinkedIn**: [Andrew Mwendwa](https://www.linkedin.com/in/andrew-mwendwa-7401711a1/)
 
 Feel free to connect for collaborations, contributions, or just to discuss exciting Web3, AI, and systems engineering ideas! 🚀
